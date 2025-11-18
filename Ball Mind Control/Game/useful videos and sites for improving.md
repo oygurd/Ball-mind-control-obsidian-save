@@ -21,3 +21,5 @@ Advanced tips for big projects:
 [https://www.radermatthew.com/scriptable-object-practice](https://www.radermatthew.com/scriptable-object-practice)
 
 [https://www.youtube.com/watch?v=8WqYQ1OwxJ4](https://www.youtube.com/watch?v=8WqYQ1OwxJ4)
+
+Use feature branches for the project

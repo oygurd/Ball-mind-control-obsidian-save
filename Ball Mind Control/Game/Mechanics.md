@@ -21,3 +21,5 @@ victims: each victim is quite unique, when a victim is claimed, you can see its 
 this project is using the new unity input system
 
 [Ball Mechanics when not held](https://www.notion.so/Ball-Mechanics-when-not-held-269569c8a3638043ad43df480fac8530?pvs=21)
+
+gravity scale priority for scripts is used with a central manager script instead of an event delegate because it can be inserted into a function while an event delegate needs its own function
